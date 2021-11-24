@@ -1,7 +1,7 @@
 import requests
 
-app_id = "ff641e72"
-app_key = "91acb493b5593cd0a7aa615721b0fcb4"
+app_id = "Sizning ID"
+app_key = "Sizning KEY"
 language = "en-gb"
 
 
