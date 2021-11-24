@@ -7,7 +7,7 @@ from oxfort import getDefinitions
 from googletrans import Translator
 translator = Translator()
 
-API_TOKEN = '1875124545:AAGAv5DaL_uYHyQXqlLi1UlDJ1SQDGfgus8'
+API_TOKEN = 'Bu yerda sizning TOKENINGIZ'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
