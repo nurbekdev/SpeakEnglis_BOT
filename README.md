@@ -1,10 +1,10 @@
-# SpeakEnglis_BOT 🚀
+# SpeakEnglis_BOT 🚀    Muallif: [Anvar Narzullayev](https://github.com/anvarnarz)
 Bu telegram bot hisoblanadi
 
 [![platform](https://img.shields.io/github/followers/5?style=social)](https://t.me/nurbekdev)
 [![GitHub license](https://img.shields.io/badge/License-Apache2.0-blue.svg)](LICENSE)
   # Botni Herokuga yuklash qadamlari
-* 0. Tayyorgarlik
+ ## * 0. Tayyorgarlik
 
 heroku.com sahifaisga kirib ro’yxatdan o’tasiz
 
@@ -12,7 +12,7 @@ Git CLI yuklab oling va o’rnating: https://git-scm.com/downloads
 
 Heroku CLI yuklab oling va o’rnating: https://devcenter.heroku.com/articles/heroku-cli#download-and-install
 
-* 1. Fayllarni tayyorlaymiz
+## * 1. Fayllarni tayyorlaymiz
  
 Botingizni va kerakli fayllarni bitta papkaga saqlang
 
@@ -30,7 +30,7 @@ wikipedia
 
 requirements==2.26.3
 
-* 2. Git
+## * 2. Git
 
 Quyidagi buyruqlarni Windows Powershell (terminal) dasturida oldinma-ketin bajaring:
 
@@ -40,15 +40,15 @@ Quyidagi buyruqlarni Windows Powershell (terminal) dasturida oldinma-ketin bajar
 
       git commit -m 'initial commit'
 
-* 3. Heroku CLI
+## * 3. Heroku CLI
 
-Quyidagi buyruqlarni Windows Powershell (terminal) dasturida oldinma-ketin bajaring:
+ Quyidagi buyruqlarni Windows Powershell (terminal) dasturida oldinma-ketin bajaring:
 
       heroku login
 
       heroku create
 
-Agar botni avval yaratilgan app ichiga yuklamoqchi bo’lsangiz:
+ Agar botni avval yaratilgan app ichiga yuklamoqchi bo’lsangiz:
 
       heroku git:remote -a app_nomi
 
@@ -57,10 +57,10 @@ Agar botni avval yaratilgan app ichiga yuklamoqchi bo’lsangiz:
       heroku ps:scale worker=1
 
 Tabriklaymiz, botingiz ishga tushdi 🙌
-.
+
 
 Agar botingiz ishlamasa, `heroku logs --tail` buyrug’i yordamida serverdagi loglarni ko’rish mumkin.
 
 
 
-*   Mualif: https://github.com/anvarnarz
+
