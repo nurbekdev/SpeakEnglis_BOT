@@ -36,4 +36,4 @@ Agar botingiz ishlamasa, heroku logs --tail buyrug’i yordamida serverdagi logl
 
 
 
-Mualif: @anvarnarz
+Mualif: https://github.com/anvarnarz
