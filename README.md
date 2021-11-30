@@ -31,19 +31,19 @@ requirements==2.26.3
 
 Quyidagi buyruqlarni Windows Powershell (terminal) dasturida oldinma-ketin bajaring:
 
-     `git init`
+      git init
 
-`git add -A`
+      git add -A
 
-`git commit -m 'initial commit'`
+      git commit -m 'initial commit'
 
 * 3. Heroku CLI
 
 Quyidagi buyruqlarni Windows Powershell (terminal) dasturida oldinma-ketin bajaring:
 
-`heroku login`
+      heroku login
 
-`heroku create`
+      heroku create
 
 Agar botni avval yaratilgan app ichiga yuklamoqchi bo’lsangiz:
 
@@ -60,4 +60,4 @@ Agar botingiz ishlamasa, `heroku logs --tail` buyrug’i yordamida serverdagi lo
 
 
 
-Mualif: https://github.com/anvarnarz
+*   Mualif: https://github.com/anvarnarz
