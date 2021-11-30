@@ -1,5 +1,7 @@
-# SpeakEnglis_BOT
+# SpeakEnglis_BOT 🚀
 Bu telegram bot hisoblanadi
+[![platform](https://img.shields.io/badge/platform-iOS-orange)](https://t.me/nurbekdev)
+[![GitHub license](https://img.shields.io/badge/License-Apache2.0-blue.svg)](LICENSE)
   # Botni Herokuga yuklash qadamlari
 * 0. Tayyorgarlik
 
@@ -47,13 +49,13 @@ Quyidagi buyruqlarni Windows Powershell (terminal) dasturida oldinma-ketin bajar
 
 Agar botni avval yaratilgan app ichiga yuklamoqchi bo’lsangiz:
 
-heroku git:remote -a app_nomi
+      heroku git:remote -a app_nomi
 
-git push heroku master
+      git push heroku master
 
-heroku ps:scale worker=1
+      heroku ps:scale worker=1
 
-Tabriklaymiz, botingiz ishga tushdi
+Tabriklaymiz, botingiz ishga tushdi 🙌
 .
 
 Agar botingiz ishlamasa, `heroku logs --tail` buyrug’i yordamida serverdagi loglarni ko’rish mumkin.
