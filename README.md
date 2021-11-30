@@ -10,7 +10,7 @@ Git CLI yuklab oling va o’rnating: https://git-scm.com/downloads
 Heroku CLI yuklab oling va o’rnating: https://devcenter.heroku.com/articles/heroku-cli#download-and-install
 
 * 1. Fayllarni tayyorlaymiz
-* 
+ 
 Botingizni va kerakli fayllarni bitta papkaga saqlang
 
 Asosy bot faylini `bot.py` yoki main.py deb nomlang
@@ -31,7 +31,7 @@ requirements==2.26.3
 
 Quyidagi buyruqlarni Windows Powershell (terminal) dasturida oldinma-ketin bajaring:
 
-`git init`
+     `git init`
 
 `git add -A`
 
