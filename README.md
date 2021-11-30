@@ -1,6 +1,7 @@
 # SpeakEnglis_BOT 🚀
 Bu telegram bot hisoblanadi
-[![platform](https://img.shields.io/badge/platform-iOS-orange)](https://t.me/nurbekdev)
+
+[![platform](https://img.shields.io/github/followers/5?style=social)](https://t.me/nurbekdev)
 [![GitHub license](https://img.shields.io/badge/License-Apache2.0-blue.svg)](LICENSE)
   # Botni Herokuga yuklash qadamlari
 * 0. Tayyorgarlik
